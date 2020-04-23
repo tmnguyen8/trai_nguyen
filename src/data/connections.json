@@ -2,13 +2,15 @@
     {
         "id": 0,
         "title": "LinkedIn Profile",
-        "link": "",
+        "link": "https://www.linkedin.com/in/trai-nguyen-p-e-9647332a/",
+        "imgSRC": "https://raw.githubusercontent.com/tmnguyen8/trai_nguyen/master/src/assets/img/linkedin-480.png",
         "selected": false
     },
     {
         "id": 1,
         "title": "Github Profile",
         "link": "https://github.com/tmnguyen8",
+        "imgSRC": "https://raw.githubusercontent.com/tmnguyen8/trai_nguyen/master/src/assets/img/github-480.png",
         "selected": false
     }
 ]
